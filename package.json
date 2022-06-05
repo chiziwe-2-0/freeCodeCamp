@@ -13,5 +13,6 @@
 	},
 	"author": "Nikita Olimpiev",
 	"description": "A project that does something awesome",
-	"keywords": [ "nodejs", "skills", "freecodecamp" ]
+	"keywords": [ "nodejs", "skills", "freecodecamp" ],
+	"license": "MIT"
 }
